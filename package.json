@@ -1,0 +1,24 @@
+{
+    "name": "vuepress-plugin-vuepress2.x-code-copy",
+    "version": "1.0.0",
+    "description": "A Vuepress2.x plugin that adds copy code buttons to all code blocks.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "vuepress",
+        "code copy",
+        "copy",
+        "clipboard",
+        "vuepress plugin",
+        "plugin"
+    ],
+    "author": "lcy",
+    "prettier": {
+        "trailingComma": "none",
+        "tabWidth": 4,
+        "semi": false,
+        "singleQuote": true
+    }
+}
